@@ -11,7 +11,8 @@ Note: bought this router in 2020 with pre installed Merlin firmware. can't updat
 use the following link to understand and buy about Clash subscription <br/>
 https://github.com/ammasood12/clash
 
-### Installtion Method
+## Merlin Shadowsocks Koolshare app
+**Installation**  <br/>
 1. download shadowsocks.tar.gz from the following link <br/>
 https://github.com/cary-sas/v2ray_bin/releases <br/>
 2. use the offline installton in koolshare softare center "koolshare - 软件中心" <br/>
@@ -25,11 +26,9 @@ https://github.com/cary-sas/v2ray_bin/releases <br/>
 Can't use this command in "shellinabox" or "webshell" <br/>
 this will enable offline innstallation <br/>
 > sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh <br/>
-
-
 ### How to use
 check the following link <br/>
-https://docs.wannaflix.net/routers/merlin/v2ray
+https://docs.wannaflix.net/routers/merlin/v2ray <br/>
+Note: Don't use global mode. <br/>
 
-
-
+## Merlin Clash Koolshare app
