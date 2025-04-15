@@ -28,8 +28,9 @@ Can't use this command in "shellinabox" or "webshell" <br/>
 > sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh <br/>
 
 **Compatible with Merlin Clash**
-1. https://v2rayse.com
-2. SSone
+1. https://v2rayse.com (have clash panel configs)
+2. SSone (connect but can't browse)
+3. Ruk1ng001 (use clash-yaml config to import, can't connect)
 
 ### How to use
 check the following link <br/>
