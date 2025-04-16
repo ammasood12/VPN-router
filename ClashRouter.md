@@ -27,10 +27,15 @@ Download Merlin Clash Koolshare app from https://t.me/merlinclashcat <br/>
 Can't use this command in "shellinabox" or "webshell" <br/>
 > sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh <br/>
 
+**Clash Usage Notes**
 **Compatible with Merlin Clash**
-1. https://v2rayse.com (have clash panel configs)
-2. SSone (connect but can't browse)
-3. Ruk1ng001 (use clash-yaml config to import, can't connect)
+Note: an established VPN connection required to get the subscription and run the ClashMerlin first time. <br/>
+1. https://v2rayse.com -> have clash panel configs
+2. SSone -> connect but can't browse
+3. Ruk1ng001 -> use clash-yaml config to import, can't connect
+4. YiFenJiChang ->  unsupport proxy type: hysteria2
+
+
 
 ### How to use
 check the following link <br/>
