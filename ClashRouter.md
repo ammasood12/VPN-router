@@ -33,7 +33,8 @@ Note: an established VPN connection required to get the subscription and run the
 1. https://v2rayse.com -> have clash panel configs
 2. SSone -> connect but can't browse
 3. Ruk1ng001 -> use clash-yaml config to import, can't connect
-4. YiFenJiChang ->  unsupport proxy type: hysteria2
+4. ShahidBhutta -> use clash-yaml config to import, can't connect
+5. YiFenJiChang ->  unsupport proxy type: hysteria2
 Fix: use fake-ip in clash marlin
 
 
